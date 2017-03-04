@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <style>
+	*{
+		margin:0;
+		padding:0;
+	}
+	.main{
+		width:500px;
+		height:500px;
+		border:solid #000 2px;
+		margin:0 auto;
+		margin-top:30px;
+		
+	}
+	.top{
+		width:500px;
+		height:50px;
+		background-color:#000;
+		margin:0 auto;
+		color:#FFF;
+		text-align:center;
+		padding-top:10px;
+	}
+	.bottom ul{
+		margin-top:5px;
+	}
+	ul li{
+		list-style:none;
+		color:#000;
+		width:500px;
+		height:25px;
+		margin-left:20px;
+		margin-top:3px;
+	}
+	li a{
+		text-decoration:none;
+		color:#000;
+
+	}
+	li a:hover{
+		color:red;
+	}
+  </style>
+ </head>
+ <body>
+  <div class="main">
+	<div class="top">
+		<h1>JS Demo</h1>
+	</div>
+	<div class="bottom">
+		<ul>
+			<li><a href="Jsdemo/鼠标移入移出改变透明度/鼠标移入移出改变透明度.html">1.鼠标移入移出改变透明度</a></li>
+			<li><a href="Jsdemo/网页换肤/网页换肤.html">2.网页换肤</a></li>
+			<li><a href="Jsdemo/函数接受传参.html">3.函数接受传参</a></li>
+			<li><a href="Jsdemo/记住密码提示框.html">4.记住密码提示框</a></li>
+			<li><a href="Jsdemo/控制DIV元素.html">5.控制DIV元素</a></li>
+			<li><a href="Jsdemo/鼠标移入移出改变样式.html">6.鼠标移入移出改变样式</a></li>
+			<li><a href="Jsdemo/百度输入法.html">7.百度输入法</a></li>
+			<li><a href="Jsdemo/弹出层效果.html">8.弹出层效果</a></li>
+			<li><a href="Jsdemo/简易JS年历.html">9.简易JS年历</a></li>
+			<li><a href="Jsdemo/简易选项卡.html">10.简易选项卡</a></li>
+			<li><a href="Jsdemo/点击切换图片/index.html">11.点击切换图片</a></li>
+			<li><a href="Jsdemo/鼠标移过改变图片路径/鼠标移过改变图片路径.html">12.鼠标移过改变图片路径</a></li>
+			<li><a href="Jsdemo/图片轮播效果/图片轮播效果.html">13.图片轮播效果</a></li>
+			<li><a href="Jsdemo/点击Div，显示其innerHTML.html">14.点击Div，显示其innerHTML.html</a></li>
+			<li><a href="Jsdemo/求出数组中所有数字的和.html">15.求出数组中所有数字的和.html</a></li>
+		</ul>
+	
+	</div>
+  </div>
+ </body>
+</html>
